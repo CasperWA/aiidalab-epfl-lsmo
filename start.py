@@ -31,7 +31,6 @@ def get_start_widget(appbase, jupbase):
     <li><a href="{appbase}/import/import.ipynb" target="_blank">Import database</a>
     <li><a href="{appbase}/import/plot.ipynb" target="_blank">Plot imported data</a>
     </ul></td>
-    
     </tr></table>
 """
     
