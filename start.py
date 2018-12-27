@@ -26,7 +26,6 @@ def get_start_widget(appbase, jupbase):
      <td valign="top"><ul>
     <li><a href="{appbase}/pores/pores.ipynb" target="_blank">Compute Pores</a>
     </ul></td>
-    
     <td valign="top"><ul>
     <li><a href="{appbase}/import/import.ipynb" target="_blank">Import database</a>
     <li><a href="{appbase}/import/plot.ipynb" target="_blank">Plot imported data</a>
